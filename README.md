@@ -1,3 +1,3 @@
 # This is the best project ever!
 
-It's *really* cool
+It's *really* cool. Truly!
